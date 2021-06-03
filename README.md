@@ -10,10 +10,10 @@ This processing application reads exisiting (recorded) car data and visualizes t
 
 # Menu Screen
 
-![MenuScreen](/Dashboard Screenshots/Menu.png)
+![MenuScreen](/Screenshots/Menu.png)
 
 # Dashboard Screens
 
-![Ford Data Visualization](/Dashboard Screenshots/InApp1.png)
+![Ford Data Visualization](/Screenshots/InApp1.png)
 
-![BMW Data Visualization](/Dashboard Screenshots/InApp2.png)
+![BMW Data Visualization](/Screenshots/InApp2.png)
